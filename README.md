@@ -9,4 +9,3 @@ How to run this project
 1. Clone or download repository
 2. cd to the path/to/folder in your terminal
 2. Run npm start from the terminal
-
